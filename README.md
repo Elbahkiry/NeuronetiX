@@ -1,0 +1,2 @@
+# NeuronetiX
+NeuronetiX internship Tasks
